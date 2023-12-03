@@ -6,7 +6,7 @@
  * @Description: In User Settings Edit
  * @FilePath: /oneslide/css/main.js
  */
-alert('点击左上角设置按钮开始快速制作PPT')
+
 const $ = s => document.querySelector(s)
 const $$ = s => document.querySelectorAll(s)
 $('.icon-setting').style.color = 'black';
